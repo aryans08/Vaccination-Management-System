@@ -1,6 +1,6 @@
 <footer class="fixed-bottom"  id="part2">
 
-    <p>Copyright © 2021 - All Rights Reserved</p>
+<p>Copyright © <?php echo date('Y') ?> - All Rights Reserved</p>
 
 </footer>
 
