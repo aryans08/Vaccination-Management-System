@@ -171,7 +171,7 @@ body::-webkit-scrollbar {
       <div class="row justify-content-start mt-4 mx-3">
         <div class="col ">
           <!-- <button class="btn text-white fs-5" id="primary">Get Report</button> -->
-          <button class="btn btn-outline-dark fs-5">Get Report</button>
+          <a href="details.php"><button class="btn btn-outline-dark fs-5">Get Report</button></a>
           <div class="fs-4  mt-4 mC"><b>or Register Below</b> </div>
 
         </div>
